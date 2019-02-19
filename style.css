@@ -10337,3 +10337,8 @@
   
   /*# sourceMappingURL=now-ui-kit.css.map */
   
+  .attendants {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+  }
